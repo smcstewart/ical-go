@@ -1,3 +1,3 @@
-module github.com/smsctewart/ical-go
+module github.com/smcstewart/ical-go
 
 go 1.13
